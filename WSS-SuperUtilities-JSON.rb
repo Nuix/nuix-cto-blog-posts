@@ -1,3 +1,4 @@
+#Script runs as a Worker Side Script during ingestion.
 #Require the SuperUtilities.jar
 
 require 'aws-sdk-s3'
